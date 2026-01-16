@@ -45,11 +45,12 @@
     "evaluation_date": "2026-01-15",
     "tau2_bench_version": "v1.0",
     "user_simulator": "gemini-3-pro-preview",
-    "notes": "Optimized agent for TauBench, featuring enhanced intent parsing, adaptive hierarchical planning, and rigorous tool-call parameter validation. Contributors: Jiaqi Li, Jiazhe Wang, Kai Zhou, Bin Ma, Xingjia Li, Xiaobo Wang, Gonglin Zhou, Quansen Wang, Zhenxiang Ma from BIGA TongAgents team.",
+    "notes": "τ2-bench results using TongAgents system from BIGAI. We enhance the overall performance with enhanced intention recognition, rigorous tool-call validation, policy verification and adaptive prompt optimization for relevant environment.",
     "verification": {
       "modified_prompts": true,
       "omitted_questions": false,
       "details": "Complete evaluation with all standard tasks"
     }    
   }
+
 }
