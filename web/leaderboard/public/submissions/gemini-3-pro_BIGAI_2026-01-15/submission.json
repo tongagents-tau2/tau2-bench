@@ -1,0 +1,55 @@
+{
+  "model_name": "TongAgents",
+  "organization": "BIGAI",
+  "submission_date": "2026-01-16",
+  "submission_type": "custom",
+  "submitting_organization": "BIGAI",
+  "contact_info": {
+    "email": "info.bigai@bigai.ai",
+    "name": "BIGAI TongAgents team",
+    "github": "https://github.com/bigai-ai"
+  },
+  "trajectories_available": true,
+  "references": [
+    {
+      "title": "TongAgents Tau2-Bench Submission",
+      "url": "https://github.com/bigai-ai",
+      "type": "github"
+    }
+  ],
+  "results": {
+    "retail": {
+      "pass_1": 86.8421052631579,
+      "pass_2": null,
+      "pass_3": null,
+      "pass_4": null,
+      "cost": 0.20924694736842103
+    },
+    "airline": {
+      "pass_1": 76.0,
+      "pass_2": null,
+      "pass_3": null,
+      "pass_4": null,      
+      "cost": 0.22735467999999998
+    },
+    "telecom": {
+      "pass_1": 94.73684210526315,
+      "pass_2": null,
+      "pass_3": null,
+      "pass_4": null,      
+      "cost": 0.35430036842105256
+    }
+  },
+  "is_new": false,
+  "methodology": {
+    "evaluation_date": "2026-01-15",
+    "tau2_bench_version": "v1.0",
+    "user_simulator": "gemini-3-pro-preview",
+    "notes": "Optimized agent for TauBench, featuring enhanced intent parsing, adaptive hierarchical planning, and rigorous tool-call parameter validation. Contributors: Jiaqi Li, Jiazhe Wang, Kai Zhou, Bin Ma, Xingjia Li, Xiaobo Wang, Gonglin Zhou, Quansen Wang, Zhenxiang Ma from BIGA TongAgents team.",
+    "verification": {
+      "modified_prompts": true,
+      "omitted_questions": false,
+      "details": "Complete evaluation with all standard tasks"
+    }    
+  }
+}

@@ -143,6 +143,9 @@ const TrajectoryVisualizer = () => {
         ],
         'Nemotron-Orchestrator-8B': [
           'toolorchestra_{domain}_gpt-5_1trial.json'
+        ],
+        'TongAgents': [
+          '{domain}_tong_llm_agent_gemini-3-pro-preview_user_simulator_gemini-3-pro-preview.json'
         ]
       }
       
