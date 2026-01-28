@@ -15,6 +15,11 @@
       "title": "TongAgents Tau2-Bench Submission",
       "url": "https://github.com/bigai-ai",
       "type": "github"
+    },
+    {
+      "title": "methodology",
+      "url":"https://raw.githubusercontent.com/tongagents-tau2/tau2-bench/refs/heads/tongagents-new-pr/web/leaderboard/public/submissions/gemini-3-pro_BIGAI_2026-01-15/methodology.md",
+      "type": "github"
     }
   ],
   "results": {
@@ -54,3 +59,4 @@
   }
 
 }
+
