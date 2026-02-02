@@ -5,15 +5,15 @@
   "submission_type": "custom",
   "submitting_organization": "BIGAI",
   "contact_info": {
-    "email": "info.bigai@bigai.ai",
+    "email": "mabin@bigai.ai",
     "name": "BIGAI TongAgents team",
-    "github": "https://github.com/bigai-ai"
+    "github": "https://github.com/tongagents-tau2/tau2-bench/tree/tongagents-new-pr"
   },
   "trajectories_available": true,
   "references": [
     {
       "title": "TongAgents Tau2-Bench Submission",
-      "url": "https://github.com/bigai-ai",
+      "url": "https://github.com/tongagents-tau2/tau2-bench/tree/tongagents-new-pr",
       "type": "github"
     },
     {
@@ -59,4 +59,5 @@
   }
 
 }
+
 
